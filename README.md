@@ -18,7 +18,7 @@ Passionate about turning data into intelligent solutions — I build ML-driven s
 ---
 
 ## 🛠️ Technologies & Tools
-🐍 Python • 📈 Pandas • 🔢 NumPy • 🐬 MySQL • 📑 Microsoft Excel • 🌿 Git • 🐙 GitHub.
+🐍 Python • 📈 Pandas • 🔢 NumPy • 🐬 MySQL • 📑 Microsoft Excel • 🌿 Git • 🐙 GitHub
 
 
 ---
