@@ -33,7 +33,7 @@ Passionate about turning data into intelligent solutions — I build ML-driven s
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Let's Connect.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sakshit-jangam-5967023b1/" target="_blank">
