@@ -4,7 +4,7 @@ Passionate about turning data into intelligent solutions — I build ML-driven s
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me hi
 
 - 🌱 Currently strengthening my foundation in **Machine Learning** and **Data Science**.
 - 💼 Working on projects that enhance my expertise in **Python, MySQL, Excel, Pandas, and NumPy**, with a focus on data analysis, predictive modeling, and practical problem-solving.
